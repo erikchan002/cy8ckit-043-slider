@@ -1,0 +1,6 @@
+E:\hardware\cy8ckit-043-slider\cy8ckit-043-slider.cydsn\cy8ckit-043-slider.cyprj|5c937c9d-1674-409f-9821-95a2e0d3cbdd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|31aa1191-6d36-4890-8c5b-a2897d3aef1b
+C:\Users\Erik\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|ada1f8ac-aa63-47af-8a20-38b40b870d4e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|be383d68-2295-4b9b-9d34-86fd9c1b8dbf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|01dc62f9-1757-4dac-9161-615b189c38e8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|212c07fd-7a81-43c4-91d4-38a3e4590d51
